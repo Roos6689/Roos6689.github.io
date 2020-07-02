@@ -10,6 +10,7 @@ p {
   color: red;
   font-family: courier;
   font-size: 160%;
+  border: 2px solid Green;
 }
 img { width: 300px;}
 
