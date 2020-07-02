@@ -2,6 +2,8 @@ body {
   background-color: white;
 }
 h1 {
+   border-style: rounded;
+   border-width: 20px;
    text-align: center;
    color: Green;
    font-family: albertus;
