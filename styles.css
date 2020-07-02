@@ -2,11 +2,13 @@ body {
   background-color: white;
 }
 h1 {
-    color: Green;
-  font-family: albertus;
-  font-size: 300%;
+   text-align: center;
+   color: Green;
+   font-family: albertus;
+   font-size: 300%;
 }
 p {
+  text-align: center;
   color: red;
   font-family: courier;
   font-size: 160%;
