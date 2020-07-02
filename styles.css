@@ -2,10 +2,14 @@ body {
   background-color: white;
 }
 h1 {
-  color: Green;
+    color: blue;
+  font-family: verdana;
+  font-size: 300%;
 }
 p {
   color: red;
+  font-family: courier;
+  font-size: 160%;
 }
 img { width: 300px;}
 
