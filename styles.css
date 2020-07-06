@@ -9,7 +9,13 @@ h1 {
    font-size: 300%;
 }
 p {
- 
+ #para1 {
+  text-align: center;
+  color: red;
+}
+
+<p id="para1">Hello World!</p>
+<p>This paragraph is not affected by the style.</p>
   background-color: Red;
   text-align: center;
   color: Black;
