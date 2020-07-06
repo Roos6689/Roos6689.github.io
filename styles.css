@@ -13,10 +13,6 @@ p {
   text-align: center;
   color: red;
 }
-
-<p id="para1">Hello World!</p>
-<p>This paragraph is not affected by the style.</p>
-  background-color: Red;
   text-align: center;
   color: Black;
   font-family: courier;
