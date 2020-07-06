@@ -13,11 +13,11 @@ p {
   text-align: center;
   color: red;
 }
+p {
   text-align: center;
   color: Black;
   font-family: courier;
   font-size: 160%;
-  border: 2px solid Green;
 }
 img { width: 300px;}
 
