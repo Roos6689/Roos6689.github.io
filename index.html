@@ -44,9 +44,17 @@ li a:hover {
   cursor: pointer;
   width: 30%;
 }
+    .center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
     .button1 {border-radius: 50%;}
     .button2 {border-radius: 50%;}
-    
+     
 </style>
   
 </head>
@@ -65,7 +73,11 @@ li a:hover {
   <img src="https://images.pexels.com/photos/65547/pexels-photo-65547.jpeg?cs=srgb&dl=pexels-caio-65547.jpg&fm=jpg" alt="M&M'S">
   <p><a href="https://tikkie.me/pay/9vfqu2a3cbi98oqnt0gu">Paprika Chips</a></p>
   
-  <button class="button button2">Paprika Chips</button>
+    <div class="center">
+    <div class="button button2">
+    <button>Paprika Chips</button>
+  </div>
+</div>
  
 
 </body>
